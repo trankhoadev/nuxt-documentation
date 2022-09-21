@@ -1,0 +1,1 @@
+https://stackoverflow.com/questions/48426972/importing-javascript-file-for-use-within-vue-component

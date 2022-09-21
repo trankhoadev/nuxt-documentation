@@ -1,0 +1,1 @@
+https://stackoverflow.com/questions/47968256/what-is-best-way-for-including-bootstrap-css-to-nuxt-project
